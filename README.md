@@ -60,3 +60,4 @@ python alarm_clock.py
 このプロジェクトは MITライセンス の下で公開されています。
 
 「日常のタスクを、自作のツールでより正確に。」
+<img width="493" height="655" alt="スクリーンショット 2026-05-03 110649" src="https://github.com/user-attachments/assets/dc0ed841-53c9-44ec-ac22-616dfc0fb0a5" />
